@@ -13,7 +13,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa desenvolvimento Web com Python,
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como o desenvolvimento web utilizando Python pode ser uma ferramenta poderosa e robusta para aplicações Web.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/Ismagold67/lab-natty-or-not-dio/blob/main/Python%20para%20Web%20(1).pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
